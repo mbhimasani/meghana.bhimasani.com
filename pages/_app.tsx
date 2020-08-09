@@ -12,17 +12,18 @@ const MeghanaBhimasani: React.FC<AppProps> = ({ Component, pageProps }) => (
       <title>Meghana Bhimasani</title>
       <meta
         property="description"
-        content="I am a product designer & software engineer with special interests in UX, growth hacking, and business strategy currently working at BitPay"
+        content="I am a software engineer with a background in healthcare and UX and special interests in
+        machine learning, interactive intelligence, and data-driven decision making currently working at the WUSTL Neurophotonics Lab."
         key="description"
       />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="shortcut icon" href="/fav_logo.png" />
     </Head>
-    <div className="layout">
+    {/* <div className="layout"> */}
       <AnimatePresence>
         <Component {...pageProps} />
       </AnimatePresence>
-    </div>
+    {/* </div> */}
   </>
 );
 

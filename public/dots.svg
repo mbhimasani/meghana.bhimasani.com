@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="181" viewBox="0 0 180 181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c3f4b;
+        stroke: #3c3f4b;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-290 -249)">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(290 249)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(303 291)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1" transform="translate(361 296)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(361 346)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-1" transform="translate(416 351)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-1" transform="translate(416 399)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-1" transform="translate(460 420)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="4.5"/>
+    </g>
+  </g>
+</svg>
